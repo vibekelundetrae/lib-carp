@@ -9,3 +9,5 @@ For det er jo ikke noe viktig som står her.
 Hvis jeg bidrar litt kommer det kanskje til å stå noe viktig her etter hvert. Lars L.
 
 `Dette er code block`
+
+**Dette er en test på å skrive i kursiv**
