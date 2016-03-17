@@ -10,4 +10,4 @@ Hvis jeg bidrar litt kommer det kanskje til å stå noe viktig her etter hvert. 
 
 `Dette er code block`
 
-**Dette er en test på å skrive i kursiv**
+**Dette er et forsøk på å skrive i kursiv**
