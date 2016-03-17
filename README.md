@@ -5,4 +5,7 @@ dette er et eksempel for
 bruk dette på eget ansvar
 Det blir trolig slettet etter hvert.
 For det er jo ikke noe viktig som står her.
+
+Hvis jeg bidrar litt kommer det kanskje til å stå noe viktig her etter hvert. Lars L.
+
 `Dette er code block`
